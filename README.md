@@ -1,4 +1,4 @@
-# Bate-Papo em Linha de Comando usando Sockets TCP
+# Bate-papo em linha de comando usando Sockets TCP
 
 Este é um projeto simples de bate-papo em linha de comando implementado em Java, utilizando sockets TCP para comunicação entre um cliente e um servidor. O projeto permite que vários clientes se conectem ao servidor e troquem mensagens em um ambiente de bate-papo em grupo.
 
