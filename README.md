@@ -12,7 +12,7 @@ O cliente possui duas threads: uma para enviar mensagens para o servidor e outra
 
 O servidor aceita conexões de clientes em um loop infinito. Cada cliente que se conecta é tratado em uma thread separada. As mensagens enviadas por um cliente são enviadas a todos os outros clientes conectados, criando um ambiente de bate-papo em grupo.
 
-## Como Usar
+## Como usar
 
 1. Compile os arquivos Java:
 
